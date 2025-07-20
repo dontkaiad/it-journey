@@ -53,7 +53,7 @@ This portfolio contains selected examples from my work in:
 
 I also:
 - roam abandoned places (stalking = my cardio),
-- main adc in League of Legends (10h hours, mt peak),
+- main adc in League of Legends (10k                                                                                                                                                                                                            hours, mt peak),
 - write music and raise two cats.
 
 ---
@@ -62,6 +62,7 @@ I also:
 
 Feel free to message me:  
 📧 icymirum@gmail.com
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hey_lark)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79618145193)
+💬 [Telegram](https://t.me/hey_lark)  
+🟢 [WhatsApp](https://wa.me/79118145193)  
+🐙 [GitHub](https://github.com/dontkaiad) 
 📍 St. Petersburg, open to relocation (PL, RS, MNE)  
