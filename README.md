@@ -69,9 +69,10 @@ Feel free to message me:
 
 ---
 
-## 🕹️ Easter Egg: Champion Sheet — Kai, the Neurodivergent Engineer
+<details>
+<summary>## 🕹️ Easter Egg: Champion Sheet — Kai, the Neurodivergent Engineer</summary>
 
-**Role:** Marksman / Analyst Hybrid  
+<!-- **Role:** Marksman / Analyst Hybrid  
 **Resource:** Focus (instead of Mana)  
 **Damage Type:** Mental / True  
 **Scaling:** Knowledge + Concentration  
@@ -140,4 +141,4 @@ At:
 > "One cat runs my cluster. The other manages incident tags."
 > "I don’t wait for permission to carry."
 
----
+</details>
