@@ -155,7 +155,7 @@ At:
 - **Level 11**: Connects edge cases to high-level patterns.
 - **Level 16**: Sees the architecture behind incidents — and updates the Wiki.
 
-*• Passive bonus: musical damage over time (if headphones are on).*
+*• Passive bonus: musical damage over time (if headphones are on). Press ctrl5 to put headphones on.*
 
 ---
 
