@@ -47,6 +47,16 @@ This portfolio contains selected examples from my work in:
 - 🧪 Curious: learned QA by testing edge devices hands-on
 - 🤖 Explored LLM prompting before it was cool.
 
+<details>
+<summary> me return manifesto </summary>  
+  
+> me return 422 when no one knows what the bug is   
+> me return 504 when devs ghost me   
+> me return 418 when asked to write a press release  
+
+  
+</details>
+
 ---
 
 ## 🐾 Fun facts
@@ -61,18 +71,20 @@ I also:
 ## 📫 Let’s connect
 
 Feel free to message me:  
-📧 icymirum@gmail.com
+📧 icymirum@gmail.com   
 💬 [Telegram](https://t.me/hey_lark)  
-🟢 [WhatsApp](https://wa.me/79118145193)  
-🐙 [GitHub](https://github.com/dontkaiad) 
+🟢 [WhatsApp](https://wa.me/79118145193)    
+🐙 [GitHub](https://github.com/dontkaiad)   
 📍 St. Petersburg, open to relocation (PL, RS, MNE pref.)  
 
 ---
 
 <details>
-<summary>## 🕹️ Easter Egg: Champion Sheet — Kai, the Neurodivergent Engineer</summary>
+<summary> 🕹️ Easter Egg: Champion Spotlight — Kai, the Neurodivergent Engineer </summary>
 
-<!-- **Role:** Marksman / Analyst Hybrid  
+<br>
+
+**Role:** Marksman / Support Hybrid  
 **Resource:** Focus (instead of Mana)  
 **Damage Type:** Mental / True  
 **Scaling:** Knowledge + Concentration  
@@ -83,10 +95,17 @@ Feel free to message me:
 
 ### 🧬 Passive — *Overfocus*
 
-Kai builds up Focus by navigating complex systems or documenting bugs no one else can explain.  
-If distracted or context-switched, the stack resets — but resumes faster when triggered by anomalies, inconsistencies, or cursed legacy dashboards.
+Kai accumulates Focus while listening to russian post-punk playlists and deep-diving into chaotic systems, log clusters, or half-written specs.
+Focus builds faster when the task is obscure, undocumented, or happening under pressure.
+Once Focus reaches 100%, her next ability is Overloaded, granting enhanced insight or performance.
 
-*Enhanced abilities activate automatically when Focus reaches 100%.*
+*⚠️ Staying in Overfocus mode too long triggers Mental Overload — abilities are weakened and Kai becomes distracted, muttering about dashboard inconsistencies.*
+
+To reset Overload, Kai must briefly switch context (e.g., take a short offline break, look out the window, touch grass, or reheat coffee).
+This clears the stack and restores baseline clarity.
+
+**Bonus:**
+If Kai opens a can of Monster Energy™ during work — Focus gain is doubled for 10 minutes.
 
 ---
 
@@ -94,6 +113,9 @@ If distracted or context-switched, the stack resets — but resumes faster when 
 
 Kai highlights invisible structures within chaos: API chains, failing workflows, undocumented triggers.  
 Perfect for log diving, error tracing, or identifying mismatched assumptions in client complaints.
+
+**Bonus:**
+Holding Monster increases speed of activation.
 
 *• Enhanced: auto-links incidents to root cause and suggests Confluence anchor.*
 
@@ -104,18 +126,22 @@ Perfect for log diving, error tracing, or identifying mismatched assumptions in 
 Executes manual probing across systems using smoke tests, user scenarios, and synthetic prompts.  
 Each cast increases attention and speeds up bug hypothesis formation.
 
-*• Stackable. At 3 charges, enters "Flow State" — reducing cooldowns and increasing insight radius.*
+*• Stackable. At 3 charges, enters "Flow State" — reducing cooldowns and increasing insight radius.*  
+*• Each consecutive cast increases chance of Overload buildup.*
 
 ---
 
 ### 🧠 E — *Prompt Mirage*
+A long-cooldown ability. Not spammable.
+Effective only if Kai is at moderate Focus and no context-switch occurred in last 3 minutes.
 
 Summons a well-structured prompt tailored to trick even the most stubborn LLMs.  
 Applies few-shot / zero-shot or CoT logic depending on context size.  
 Enemies hallucinate bugs. Allies call it wizardry.
 
 *• Can backfire beautifully if model isn’t aligned.*  
-*• Enhanced: doubles accuracy of bot-assisted support.*
+*• Enhanced: doubles accuracy of bot-assisted support.*  
+*• Overloaded version: generates two alternative prompt strategies, but at risk of overthinking.*
 
 ---
 
@@ -138,7 +164,8 @@ At:
 > "I don’t scale. I snowball."  
 > "It’s not chaos — it’s undocumented structure."  
 > "Stacking Flow. Don’t ping."  
-> "One cat runs my cluster. The other manages incident tags."
-> "I don’t wait for permission to carry."
+> "One cat runs my cluster. The other manages incident tags."  
+> "I don’t wait for permission to carry."   
+
 
 </details>
